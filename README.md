@@ -1,3 +1,3 @@
 # Sudoku Puzzle
 
-A Windows desktop application written in VB.Net.
+A Windows desktop application written in C# Net using WPF.
